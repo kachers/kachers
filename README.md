@@ -33,8 +33,10 @@ Flight Planner (https://github.com/kachers/Flight-planner) WEB API for creating 
 
 Scooter Rental Service (https://github.com/kachers/ScooterRentalService) Created a functioning backend that makes it possible to rent scooters for a period of time and calculate annual turnover for the company.
 <hr></hr>
-<a class="heading-link" href="#globe_with_meridians-my-linkedin-linkedin">🌐 My LinkedIn: </a><a href="https://www.linkedin.com/in/renarskacerovskis/" rel="nofollow">Renars Kacerovskis</a></br>
-📫 How to reach me -> renarskacerovskis@gmail.com or +37120258661
+📫 How to reach me -> </br> 
+  &nbsp; renarskacerovskis@gmail.com or +37120258661</br>
+<a class="heading-link" href="#globe_with_meridians-my-linkedin-linkedin">🌐 My LinkedIn: </a><a href="https://www.linkedin.com/in/renarskacerovskis/" rel="nofollow">Renars Kacerovskis</a>
+
 
 <!--
 
