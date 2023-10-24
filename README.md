@@ -29,9 +29,9 @@ Additional skills: </br>
 
 My latest projects:
 
-Flight Planner (https://github.com/kachers/Flight-planner) WEB API for creating scheduled flights via SQL database.
+Flight Planner (https://github.com/kachers/FlightPlanner) WEB API for creating scheduled flights via SQL database.
 
-Scooter Rental Service (https://github.com/kachers/ScooterRentalService) Created a functioning backend that makes it possible to rent scooters for a period of time and calculate annual turnover for the company.
+Scooter Rental Service (https://github.com/kachers/Codelex-uzd/tree/Tests/csharp-basics/exercises/Tests/Tests/ScooterRental) Created a functioning backend that makes it possible to rent scooters for a period of time and calculate annual turnover for the company.
 <hr></hr>
 📫 How to reach me -> </br> 
   &nbsp; renarskacerovskis@gmail.com or +37120258661</br>
