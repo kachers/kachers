@@ -13,11 +13,7 @@ desktop computers, servers, and mobile phones.
 
 Additional skills: </br>
 <br>
-· .NET</br>
-· C#</br>
 · ASP.NET Web API </br>
-· TypeScript</br>
-· React.js </br>
 · Relational Databses & SQL </br>
 · HTML & CSS </br>
 · Unit Testing </br>
