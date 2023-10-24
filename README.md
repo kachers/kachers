@@ -12,13 +12,18 @@ desktop computers, servers, and mobile phones.
 <br><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg" alt="csharp logo" width="50px" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://dejanstojanovic.net/media/131809/1x1.png"><img src="https://dejanstojanovic.net/media/131809/1x1.png" alt="dotnet logo" width="50px" style="max-width: 100%;"></a> 
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://learnosmart.com/Content/images/courses/asp-net-core.png"><img src="https://learnosmart.com/Content/images/courses/asp-net-core.png" alt="ASP.NET logo" width="50px" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png"><img src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" alt="dotnet logo" width="50px" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg" alt="typescript logo" width="50px" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png"><img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" alt="react logo" width="50px" style="max-width: 100%;"></a></p>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg" alt="typescript logo" width="50px" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="typescript logo" width="50px" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png"><img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" alt="react logo" width="50px" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="react logo" width="50px" style="max-width: 100%;"></a></p>
 
 Additional skills: </br>
 <br>
 · Relational Databses & SQL </br>
 · HTML & CSS </br>
-· Unit Testing · Test Driven Development · Clean Code, SOLID </br>
+· Unit Testing </br>
+· TTD </br>
+· SOLID </br>
 · Design Patterns </br>
 · Git</br>
 <hr></hr>
