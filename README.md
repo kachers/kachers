@@ -16,9 +16,7 @@ Additional skills: </br>
 · ASP.NET Web API </br>
 · Relational Databses & SQL </br>
 · HTML & CSS </br>
-· Unit Testing </br>
-· Test Driven Development </br>
-· Clean Code, SOLID </br>
+· Unit Testing · Test Driven Development · Clean Code, SOLID </br>
 · Design Patterns </br>
 · Git</br>
 <hr></hr>
