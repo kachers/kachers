@@ -26,9 +26,17 @@ Additional skills: </br>
 · SOLID </br>
 · Design Patterns </br>
 · Git</br>
+· Jupyter Notebook</br>
+</br>
+Software: 
+Docker, Kubernetes, Grafana, Prometheus,
+Linux, VirtualBox, VMware, SSH, PuTTY
+
 <hr></hr>
 
 My latest projects:
+
+Data analysis and visualization https://github.com/kachers/Data_analysis
 
 Flight Planner (https://github.com/kachers/FlightPlanner) WEB API for creating scheduled flights via SQL database.
 
