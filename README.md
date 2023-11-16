@@ -36,11 +36,14 @@ Linux, VirtualBox, VMware, SSH, PuTTY
 
 My latest projects:
 
-Data analysis and visualization https://github.com/kachers/Data_analysis
+<a href="https://github.com/kachers/Road_stats">Road_Stats_App</a> - WEB API project. The system is designed for loading and reviewing statistics on the number of cars and their average speed on a specific road segment. User can filter records based on specific criteria. In a separate section, the user can select a date and see the average speed of cars in a graph format for the selected date.
 
-Flight Planner (https://github.com/kachers/FlightPlanner) WEB API for creating scheduled flights via SQL database.
+<a href="https://github.com/kachers/Data_analysis">Data analysis and visualization</a> - Analyzed a provided dataset, identified patterns, anomalies, and irregularities.
 
-Scooter Rental Service (https://github.com/kachers/Codelex-uzd/tree/Tests/csharp-basics/exercises/Tests/Tests/ScooterRental) Created a functioning backend that makes it possible to rent scooters for a period of time and calculate annual turnover for the company.
+<a href="https://github.com/kachers/FlightPlanner">Flight_Planner</a> - WEB API for creating scheduled flights with SQL database.
+
+<a href="https://github.com/kachers/Codelex-uzd/tree/Tests/csharp-basics/exercises/Tests/Tests/ScooterRental">Scooter_Rental_Service</a> - Created a functioning backend that makes it possible to rent scooters for a period of time and calculate annual turnover for the company.
+
 <hr></hr>
 📫 How to reach me -> </br> 
   &nbsp; renarskacerovskis@gmail.com or +37120258661</br>
